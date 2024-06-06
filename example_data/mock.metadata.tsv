@@ -1,0 +1,13 @@
+species_id	species_name	clade_name	clade_species	locality	depth
+sp0	Abarenicola pacifica	Arenicolidae	Arenicolidae_ABARPACI	Pacific Ocean	-10
+sp1	Clymenella torquata	Maldanidae	Maldanidae_CLYMTORQ	Atlantic Ocean	-20
+sp2	Hydroides elegans	Serpulidae	Serpulidae_HYDROELEG	western Pacific Ocean	-10
+sp3	Manayunkia occidentalis	Fabriciidae	Fabriciidae_MANAOCCI	Pacific Ocean	-10
+sp4	Neoamphitrite robusta	Terebelliformia	Terebelliformia_NEOAROBU	Atlantic Ocean	-20
+sp5	Thelepus sp.	Terebelliformia	Terebelliformia_THELESP	Atlantic Ocean	-20
+sp6	Paralvinella palmiformis	Siboglinidae	Siboglinidae_PARAPALM	eastern Pacific Ocean	-2500
+sp7	Lamellibrachia columna	Siboglinidae	Siboglinidae_LAMECOLU	western Pacific Ocean	-4000
+sp8	Ridgeia piscesae	Siboglinidae	Siboglinidae_RIDGPISC	eastern Pacific Ocean	-2500
+sp9	Riftia pachyptila	Siboglinidae	Siboglinidae_RIFPACH	eastern Pacific Ocean	-2500
+
+
